@@ -80,7 +80,7 @@ body {
 
 @media (max-width: 768px) {
     body{
-        background-image: url(CHwebsite-Resources/background.png);
+        background-image: url(chromeHearts.png);
     }
     .navButtons{
         flex-direction: column;
