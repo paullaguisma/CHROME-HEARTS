@@ -1,6 +1,7 @@
 body{
     background-attachment: fixed;
     height: 300vh;
+    width: 100vw;
 }
 
 .topSection{
@@ -22,6 +23,8 @@ body{
 .fullImage{
     position: absolute;
     z-index: 1;
+    width: 100vw;
+    overflow: hidden;
 }
 
 .productSection{
@@ -54,3 +57,4 @@ body{
     background-color: rgba(0, 0, 0, 0.522);
     color: wheat;
 }
+

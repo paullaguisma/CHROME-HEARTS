@@ -76,3 +76,13 @@ body {
     opacity: 1;
 
 }
+
+
+@media (max-width: 768px) {
+    body{
+        background-image: url(CHwebsite-Resources/background.png);
+    }
+    .navButtons{
+        flex-direction: column;
+    }
+}
